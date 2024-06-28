@@ -85,8 +85,11 @@ The Quiz Application is a web-based platform developed using JavaScript and Reac
 - Redirects to home page after 5 seconds.
 - Includes a button for immediate return to home page.
 
+## Live Demo
+Check out the live demo of the Quiz Application [here](https://quiz-app-react-lake.vercel.app/).
+
 ## Author
-- **Your Name** - [lawanu-tech](https://github.com/lawanu-tech)
+- **Lawanu Borthakur** - [lawanu-tech](https://github.com/lawanu-tech)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
